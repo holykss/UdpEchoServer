@@ -1,0 +1,103 @@
+# built application files
+#*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# Windows thumbs.db
+Thumbs.db
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+#.classpath
+#.project
+
+
+######################
+# Eclipse
+######################
+
+.metadata
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+[Tt]emp/
+~$*
+
+######################
+# iOS
+######################
+.DS_Store
+__MACOSX
+objs/
+*.o
+*.d
+
+######################
+# android
+######################
+libs/
+obj/
+proj.android/assets/
+
+######################
+# Windows
+######################
+Debug.win32/
+*.tlog
+*.obj
+#*.lib
+*.ilk
+*.log
+*.pdb
+*.sdf
+#*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+[Bb]in
+*.sbr
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+##### cocos studio generated
+*.udf
+
+
+##### proj.android/proguard-project.txt
+/proj.android/proguard-project.txt
