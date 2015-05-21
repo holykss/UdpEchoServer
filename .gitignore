@@ -101,3 +101,4 @@ ipch/
 
 ##### proj.android/proguard-project.txt
 /proj.android/proguard-project.txt
+/Debug
